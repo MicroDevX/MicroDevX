@@ -14,13 +14,13 @@
 
 <p style="display:flex; flex-direction:column;justify-content: center; align-items: center;width: 100%;">
         <img src="https://github-readme-stats.vercel.app/api?username=MicroDevX&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-            title="Hisham's GitHub Stats'" style="width: 48%;">
+            title="Hisham's GitHub Stats'" style="width: 100%;">
         </img>
 
   <a
             href="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"
-                title="Most Used Languages" style="width: 48%;">
+                title="Most Used Languages" style="width: 100%;">
             </img>
        </a>
   </p>
