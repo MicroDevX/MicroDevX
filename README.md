@@ -12,18 +12,17 @@
   <li>💞 Looking for collaborations in the Embedded Systems and IoT space</li>
 </ul>
 
-<p align="center">
-        <img
-            src="https://github-readme-stats.vercel.app/api?username=MicroDevX&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" title="Hisham's GitHub Stats'">
+<p style="display:flex; flex-direction:row;justify-content: center; align-items: center;width: 100%;">
+        <img src="https://github-readme-stats.vercel.app/api?username=MicroDevX&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
+            title="Hisham's GitHub Stats'" style="width: 48%;">
         </img>
 
-<a
-href="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact">
-            <img
-                src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"
-                height=195px title="Most Used Languages">
+  <a
+            href="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"
+                title="Most Used Languages" style="width: 48%;">
             </img>
-        </a>
+       </a>
   </p>
 
 ### 🔝 Top Contributed Repositories
