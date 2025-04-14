@@ -18,7 +18,7 @@
         </img>
 
   <a
-            href="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact">
+            href="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&langs_count=10&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"
                 title="Most Used Languages" style="width: 100%;">
             </img>
@@ -27,7 +27,7 @@
 
 ### 🔝 Top Contributed Repositories
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MicroDevX&limit=7&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MicroDevX&limit=7&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" title="Top Repos">
 </p>
 
 <br><br>
