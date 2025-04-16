@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=539bf5&center=true&vCenter=true&width=435&lines=Learning%2C+Living%2C+and+Leveling+up." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFF000&center=true&vCenter=true&width=435&lines=Learning%2C+Living%2C+and+Leveling+up." alt="Typing SVG" />
 </h2>
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MicroDevX&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/MicroDevX)
@@ -12,7 +12,7 @@
   <li>💞 Looking for collaborations in the Embedded Systems and IoT space</li>
 </ul>
 
-<p style="display:flex; flex-direction:column;justify-content: center; align-items: center;width: 100%;">
+<p style="display:flex; flex-direction:column;justify-content: center; align-items: center;width: 100%;color:FFF000;">
         <img src="https://github-readme-stats.vercel.app/api?username=MicroDevX&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
             title="Hisham's GitHub Stats'" style="width: 100%;">
         </img>
