@@ -26,7 +26,7 @@
 
 ### 🔝 Top Contributed Repositories
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=MicroDevX&limit=7&theme=dark&combine_all_yearly_contributions=true" alt="Top Repos" title="Top Repos">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MicroDevX&limit=7&theme=ithub_dark_dimmed&combine_all_yearly_contributions=true" alt="Top Repos" title="Top Repos">
 </p>
 
 <br><br>
