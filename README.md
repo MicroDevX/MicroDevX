@@ -18,7 +18,7 @@
         </img>
 
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&langs_count=3&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&langs_count=3&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&langs_count=3&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact"
                 title="Most Used Languages" style="width: 100%;">
     </img>
   </a>
