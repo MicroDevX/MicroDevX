@@ -17,13 +17,12 @@
             title="Hisham's GitHub Stats'" style="width: 100%;">
         </img>
 
-  <a
-            href="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&langs_count=3&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&langs_count=3&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&langs_count=3&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&langs_count=3&theme=github_dark_dimmed&show_icons=true&hide_border=false&layout=compact"
                 title="Most Used Languages" style="width: 100%;">
-            </img>
-       </a>
-  </p>
+    </img>
+  </a>
+</p>
 
 ### 🔝 Top Contributed Repositories
 <p align="center">
@@ -51,9 +50,3 @@
 </p>
 
 <br>
-<!-- new -->
-
-
-<p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=yorukot&style=flat-square&base=500" />
-</p>
