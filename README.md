@@ -16,6 +16,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=MicroDevX&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
             title="Hisham's GitHub Stats'" style="width: 100%;">
         </img>
+        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MicroDevX&layout=compact)
 </p>
 
 <br><br>
