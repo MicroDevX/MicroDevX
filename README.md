@@ -25,10 +25,10 @@
 
 ### 🔧 Skills & Technologies:
 <p align="left" style="width: 24px;height: 24px;">
-  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/clogo.png" alt="C" height="50" width="50" title="C">
-  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/C++%20(CPlusPlus).png" alt="C++" height="50" width="50" title="C++">
-  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Linux.png" alt="Linux" height="50" width="50" title="Linux">
-  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Arm_Holdings-Logo.wine.png" alt="Arm Cortex-M" height="50" width="50" title="Arm Cortex-M">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/clogo.png" alt="C" height="100" width="100" title="C">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/C++%20(CPlusPlus).png" alt="C++" height="100" width="100" title="C++">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Linux.png" alt="Linux" height="100" width="100" title="Linux">
+  <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Arm_Holdings-Logo.wine.png" alt="Arm Cortex-M" height="100" width="100" title="Arm Cortex-M">
   <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Raspberry%20Pi.png" alt="Raspberry Pi" height="50" width="50" title="Raspberry Pi">
   <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Ubuntu.png" alt="Ubuntu" height="50" width="50" title="Ubuntu">
   <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Python.png" alt="Python" height="50" width="50" title="Python">
