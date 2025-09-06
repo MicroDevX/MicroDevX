@@ -24,7 +24,7 @@
 <br><br>
 
 ### 🔧 Skills & Technologies:
-<p align="left" style="width: 24px;height: 24px;backgound: #333; border-raduis:20px;">
+<p align="left" style="width: 24px;height: 24px;backgound: #444; border-raduis:20px;">
   <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/clogo.png" alt="C" height="20" width="20" title="C">
   <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/C++%20(CPlusPlus).png" alt="C++" height="20" width="20" title="C++">
   <img src="https://github.com/Omkar7637/PORTFOLIO/raw/main/src/png/Linux.png" alt="Linux" height="20" width="20" title="Linux">
