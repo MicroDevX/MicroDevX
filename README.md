@@ -1,3 +1,5 @@
+<img src="./ProfileBanner.png" alt="Profile Banner"/>
+
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Learning%2C+Living%2C+and+Leveling+up." alt="Typing SVG" />
 </h2>
