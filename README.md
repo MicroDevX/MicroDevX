@@ -31,9 +31,8 @@ I design and build robust, user-centric software across desktop, web, and mobile
 - Emphasis on maintainable code, testing, and scalable architecture
 
 ## Contact
-- Email : [Email](https://github.com/MicroDevX)
-- GitHub: [Github](mailto:hi%73h%61%6Dw%6Frk%65d%73%6Db23%40%6Futl%6F%6Fk%2Ec%6F%6D)
-
+- Email : [Email](mailto:hi%73h%61%6Dw%6Frk%65d%73%6Db23%40%6Futl%6F%6Fk%2Ec%6F%6D)
+- Github : [Github](https://github.com/MicroDevX)
 
 <p style="display:flex; flex-direction:column;justify-content: center; align-items: center;width: 100%;color:FFF000;">
         <img src="https://github-readme-stats.vercel.app/api?username=MicroDevX&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
