@@ -30,14 +30,9 @@ I design and build robust, user-centric software across desktop, web, and mobile
 - Design-driven approach: UI/UX, logos, icons
 - Emphasis on maintainable code, testing, and scalable architecture
 
-## Selected Projects
-- Project A — brief description, link to repo
-- Project B — brief description, link to repo
-
 ## Contact
-- Email: your.email@example.com
-- LinkedIn: linkedin.com/in/yourprofile
-- GitHub: github.com/yourprofile
+- Email : [Email](https://github.com/MicroDevX)
+- GitHub: [Github](mailto:hi%73h%61%6Dw%6Frk%65d%73%6Db23%40%6Futl%6F%6Fk%2Ec%6F%6D)
 
 
 <p style="display:flex; flex-direction:column;justify-content: center; align-items: center;width: 100%;color:FFF000;">
