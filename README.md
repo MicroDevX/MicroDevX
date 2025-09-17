@@ -5,12 +5,40 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=MicroDevX&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/MicroDevX)
 
 
-<ul align="left">
-  <li>👋 Hi, I’m MicroDevX</li>
-  <li>👨‍💻 Embedded Software Developer & IoT Enthusiast</li>
-  <li>📖 Currently learning C++, BSP, and Embedded Systems</li>
-  <li>💞 Looking for collaborations in the Embedded Systems and IoT space</li>
-</ul>
+# MicroDevX
+
+Software Engineer | Desktop/Web/Mobile | Open Source Enthusiast
+
+- Descent: Linux & Windows
+- Stacks: .NET, Python, Node.js, JS/TS, HTML/CSS, C/C++, ASM, SQL, C#, Markdown, YAML
+- UI/UX, Branding: logos, icons, layouts using Adobe tools
+- Open Source Contributor
+
+## About Me
+I design and build robust, user-centric software across desktop, web, and mobile platforms. I contribute to open source, mentor teammates, and craft clean UX/UI assets.
+
+## Core Skills
+- Languages: .NET, Python, Node.js, JS, TS, C, C++, ASM, SQL, C#
+- Frontend/Backend: HTML, CSS, JavaScript, API design, databases
+- Tools: Adobe Creative Suite (Illustrator, Photoshop, XD), Git, Docker, CI/CD
+- Platforms: Linux, Windows
+- Other: UI/UX design, branding, accessibility, documentation
+
+## Experience Highlights
+- Cross-platform development for desktop/web/mobile
+- Significant contributions to OSS projects (PRs, issues, docs)
+- Design-driven approach: UI/UX, logos, icons
+- Emphasis on maintainable code, testing, and scalable architecture
+
+## Selected Projects
+- Project A — brief description, link to repo
+- Project B — brief description, link to repo
+
+## Contact
+- Email: your.email@example.com
+- LinkedIn: linkedin.com/in/yourprofile
+- GitHub: github.com/yourprofile
+
 
 <p style="display:flex; flex-direction:column;justify-content: center; align-items: center;width: 100%;color:FFF000;">
         <img src="https://github-readme-stats.vercel.app/api?username=MicroDevX&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
