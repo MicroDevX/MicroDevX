@@ -36,19 +36,11 @@ I design and build robust, user-centric software across desktop, web, and mobile
 - Email : [Email](mailto:hi%73h%61%6Dw%6Frk%65d%73%6Db23%40%6Futl%6F%6Fk%2Ec%6F%6D)
 - Github : [Github](https://github.com/MicroDevX)
 
-<p style="display:flex; flex-direction:column;justify-content: center; align-items: center;width: 100%;color:FFF000;">
-        <img src="https://github-readme-stats.vercel.app/api?username=MicroDevX&theme=github_dark_dimmed&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"
-            title="Hisham's GitHub Stats'" style="width: 100%;">
-        </img>
-
  <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=MicroDevX&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&commits_year=YYYY&show_icons=true&title_color=f0f6fc&text_color=f0f6fc&icon_color=f0f6fc&bg_color=222222&hide_border=true&border_radius=20" 
     alt="MicroDevX Stats" 
-    style="width:100%;"
-  />
-</p>
-
+    style="width:100%;"/>
 </p>
 
 <br><br>
