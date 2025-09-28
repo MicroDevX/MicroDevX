@@ -41,7 +41,14 @@ I design and build robust, user-centric software across desktop, web, and mobile
             title="Hisham's GitHub Stats'" style="width: 100%;">
         </img>
 
-  [![MicroDevX](https://github-readme-stats.vercel.app/api?username=MicroDevX&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&commits_year=YYYY&show_icons=true&title_color=f0f6fc&text_color=f0f6fc&icon_color=f0f6fc&bg_color=222222&hide_border=true&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+ <p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MicroDevX&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent&commits_year=YYYY&show_icons=true&title_color=f0f6fc&text_color=f0f6fc&icon_color=f0f6fc&bg_color=222222&hide_border=true&border_radius=20" 
+    alt="MicroDevX Stats" 
+    style="width:100%;"
+  />
+</p>
+
 </p>
 
 <br><br>
