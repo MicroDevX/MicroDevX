@@ -41,7 +41,7 @@ I design and build robust, user-centric software across desktop, web, and mobile
             title="Hisham's GitHub Stats'" style="width: 100%;">
         </img>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![MicroDevX](https://github-readme-stats.vercel.app/api?username=MicroDevX)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 <br><br>
