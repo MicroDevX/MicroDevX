@@ -1,4 +1,4 @@
-<img src="./ProfileBanner2.png" alt="Profile Banner" width="100%" height="200px"/>
+<img src="./Banner.png" alt="Profile Banner" width="100%"/>
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=Learning+%7C+Living+%7C+Leveling+Up" alt="Typing SVG" />
