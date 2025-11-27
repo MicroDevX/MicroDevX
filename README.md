@@ -54,7 +54,7 @@ I actively contribute to **open source**, mentor teammates, and craft clean **UX
     width="90%"/>
 </p>
 
-<p align="left"><img src="https://raw.githubusercontent.com/ChrisTitusTech/ChrisTitusTech/main/github-metrics.svg" /></p>
+<p align="left"><img src="https://raw.githubusercontent.com/MicroDevX/MicroDevX/main/github-metrics.svg" /></p>
 ---
 
 ## 🔧 Skills & Technologies
